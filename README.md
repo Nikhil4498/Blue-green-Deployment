@@ -120,6 +120,10 @@ kubectl get pods
 
 ![image](https://github.com/user-attachments/assets/0fd29f38-a693-4498-95f4-994216c05c7c)
 
+![image](https://github.com/user-attachments/assets/90b906d0-4e3a-48a1-a895-3cc01a2400d0)
+
+![image](https://github.com/user-attachments/assets/78f7a7e4-72f7-427f-acda-f8d1ea5b7d32)
+
 
 ### 7. Blue-Green Switching
 
