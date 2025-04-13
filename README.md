@@ -52,6 +52,14 @@ npm start
 
 3. Repeat similar steps for Green Frontend (with PORT=3200)
 
+![image](https://github.com/user-attachments/assets/6329e594-f9d7-434c-ad56-2c3dc8d0c5b5)
+
+![image](https://github.com/user-attachments/assets/33e8ee17-3103-4945-9222-9dd071c18474)
+
+![image](https://github.com/user-attachments/assets/ce4ee86a-0239-4452-8d10-8d8e43b0de4f)
+
+
+
 ### 3. Dockerization
 
 #### Build Docker Images
@@ -65,6 +73,9 @@ docker build -t your-username/frontend-blue:v1 ./frontend-blue
 # Build Green Frontend Image
 docker build -t your-username/frontend-green:v1 ./frontend-green
 ```
+
+![image](https://github.com/user-attachments/assets/0b3fb63a-8e9d-4306-a0ab-9fd134260c55)
+
 
 ### 4. Kubernetes Deployment
 
@@ -106,6 +117,9 @@ kubectl get deployments
 kubectl get services
 kubectl get pods
 ```
+
+![image](https://github.com/user-attachments/assets/0fd29f38-a693-4498-95f4-994216c05c7c)
+
 
 ### 7. Blue-Green Switching
 
